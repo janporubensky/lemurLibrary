@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T13:31:10.423326800Z</date>
+  <millis>1687613470423</millis>
+  <nanos>326800</nanos>
+  <sequence>4</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>54</thread>
+  <message>Method getABook called with argument name:id with value:2</message>
+</record>
+<record>
+  <date>2023-06-24T13:31:26.349441200Z</date>
+  <millis>1687613486349</millis>
+  <nanos>441200</nanos>
+  <sequence>5</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>55</thread>
+  <message>Method getABook called with argument name:id with value:2</message>
+</record>
+<record>
+  <date>2023-06-24T13:31:29.168005100Z</date>
+  <millis>1687613489168</millis>
+  <nanos>5100</nanos>
+  <sequence>6</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>56</thread>
+  <message>Method getABook called with argument name:id with value:2</message>
+</record>
+<record>
+  <date>2023-06-24T13:31:33.168461600Z</date>
+  <millis>1687613493168</millis>
+  <nanos>461600</nanos>
+  <sequence>7</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>57</thread>
+  <message>Method getABook called with argument name:id with value:3</message>
+</record>
+<record>
+  <date>2023-06-24T13:31:37.230156300Z</date>
+  <millis>1687613497230</millis>
+  <nanos>156300</nanos>
+  <sequence>8</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>58</thread>
+  <message>Method getABook called with argument name:id with value:5</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T13:35:24.518279300Z</date>
+  <millis>1687613724518</millis>
+  <nanos>279300</nanos>
+  <sequence>4</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>54</thread>
+  <message>Method getABook called with argument name:id with value:5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T13:35:27.147666300Z</date>
+  <millis>1687613727147</millis>
+  <nanos>666300</nanos>
+  <sequence>5</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>55</thread>
+  <message>Method getABook called with argument name:id with value:5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T13:35:36.153466800Z</date>
+  <millis>1687613736153</millis>
+  <nanos>466800</nanos>
+  <sequence>6</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>56</thread>
+  <message>Method getABook called with argument name:id with value:5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T13:35:37.602785400Z</date>
+  <millis>1687613737602</millis>
+  <nanos>785400</nanos>
+  <sequence>7</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>57</thread>
+  <message>Method getABook called with argument name:id with value:5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T13:35:38.718072300Z</date>
+  <millis>1687613738718</millis>
+  <nanos>72300</nanos>
+  <sequence>8</sequence>
+  <logger>FileLogger</logger>
+  <level>INFO</level>
+  <class>com.lemur.LemurLibrary.logging.LemurLogger</class>
+  <method>logToFile</method>
+  <thread>58</thread>
+  <message>Method getABook called with argument name:id with value:5</message>
+</record>
+</log>
